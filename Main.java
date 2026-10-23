@@ -12,7 +12,7 @@ public class Main {
             pencere.setLocationRelativeTo(null);
             pencere.setLayout(new BorderLayout());
 
-            // Sol menü
+            
             JPanel menu = new JPanel();
             menu.setBackground(new Color(1, 60, 100));
             menu.setPreferredSize(new Dimension(200, 650));
@@ -30,7 +30,7 @@ public class Main {
             menu.add(menuButonu("Stok Hareketleri"));
             menu.add(menuButonu("Raporlar"));
 
-            // Ana içerik
+
             JPanel icerik = new JPanel(new BorderLayout(15, 15));
             icerik.setBackground(new Color(245, 247, 250));
             icerik.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
@@ -47,7 +47,6 @@ public class Main {
             kartlar.add(ozetKarti("Toplam Stok", "0"));
             kartlar.add(ozetKarti("Kritik Stok", "0"));
 
-            // Ürün tablosu
             String[] sutunlar = {
                 "Ürün Kodu", "Ürün Adı", "Kategori", "Miktar"
             };
@@ -74,7 +73,6 @@ public class Main {
             ortaAlan.add(kartlar, BorderLayout.NORTH);
             ortaAlan.add(kaydirma, BorderLayout.CENTER);
 
-            // Arama alanı
             JPanel aramaPaneli = new JPanel(new FlowLayout(FlowLayout.LEFT));
             aramaPaneli.setOpaque(false);
 
