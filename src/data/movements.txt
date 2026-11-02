@@ -1,0 +1,15 @@
+1,101,GIRIS,20,2026-11-02 10:00,Depoya yeni Laptop geldi
+2,102,GIRIS,50,2026-11-02 11:30,Mouse stoku güncellendi
+3,101,CIKIS,5,2026-11-02 14:00,Satış yapıldı
+1,101,GIRIS,20,2026-11-02 10:00,Depoya yeni Laptop geldi
+2,102,GIRIS,50,2026-11-02 11:30,Mouse stoku güncellendi
+3,101,CIKIS,5,2026-11-02 14:00,Satiş yapildi
+1,101,GIRIS,20,2026-11-02 10:00,Depoya yeni Laptop geldi
+2,102,GIRIS,50,2026-11-02 11:30,Mouse stoku güncellendi
+3,101,CIKIS,5,2026-11-02 14:00,Satis yapildi
+1,1,GIRIS,20,2026-11-02 10:00,Laptop stoku eklendi
+2,2,GIRIS,50,2026-11-02 11:30,Mouse stoku güncellendi
+3,1,CIKIS,3,2026-11-02 14:00,Satis yapildi
+1,1,GIRIS,20,2026-11-02 10:00,Laptop stoku eklendi
+2,2,GIRIS,50,2026-11-02 11:30,Mouse stoku güncellendi
+3,1,CIKIS,3,2026-11-02 14:00,Satis yapildi
